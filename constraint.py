@@ -1,0 +1,7 @@
+REGISTER_LIST = []
+
+PREDEFINED_DICT = {
+
+}
+
+AUTH_LIST = []
